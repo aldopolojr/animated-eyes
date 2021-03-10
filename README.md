@@ -1,5 +1,12 @@
 # Animated Eyes Follow Mouse Cursor
-This is a **quick tutorial**, check here for the [demo](https://aldopolojr.github.io/animated-eyes/)
+
+## links
+[demo link](https://aldopolojr.github.io/animated-eyes/)
+
+[source link](https://youtu.be/IFNUXlqtROc)
+
+## Category
+tutorials
 
 ## Notes
 - box-shadow: inset
@@ -9,9 +16,3 @@ This is a **quick tutorial**, check here for the [demo](https://aldopolojr.githu
 - event.pageX
 - event.pageY
 - Math.atan2()
-
-## Source
-[https://youtu.be/IFNUXlqtROc](https://youtu.be/IFNUXlqtROc)
-
-## Tags
-#HTML #JavaScript
